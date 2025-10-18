@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "262702164991",
+    "firebase_url": "https://cadastrofiap-50493-default-rtdb.firebaseio.com",
+    "project_id": "cadastrofiap-50493",
+    "storage_bucket": "cadastrofiap-50493.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262702164991:android:93a9274e6ff9020e7f95ca",
+        "android_client_info": {
+          "package_name": "FIAPCadastro.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIovJZjl_3lr7K-VVReu8YB6Ga1_MGl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262702164991:android:8d0ecb1781ba05627f95ca",
+        "android_client_info": {
+          "package_name": "cadastro.fiap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIovJZjl_3lr7K-VVReu8YB6Ga1_MGl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
